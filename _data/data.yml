@@ -57,22 +57,14 @@ education:
       university: Harvard University
       time: Estimated Graduation Year- 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        test
           - Bullet point
           - Bullet point
     - degree: High School Diploma
       university: Providence Catholic School
       time: Class of 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        test
           - Bullet point
           - Bullet point
 experiences:
@@ -88,11 +80,7 @@ experiences:
       time: August 2017 – July 2019
       company: San Antonio Youth Sí (SAY Sí), Texas
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        In addition to being a student liason and student artist at SAY Sí, Abigail was a student mentor.
           - Bullet point
           - Bullet point
         
@@ -100,11 +88,15 @@ experiences:
       time: January 2020 – Present
       company: HackImpact, Harvard University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        yesh
+          - Bullet point
+          - Bullet point
+          
+     - role: HackImpact Director of Operations
+      time: January 2020 – Present
+      company: HackImpact, Harvard University
+      details: |
+        yesh
           - Bullet point
           - Bullet point
 projects:
