@@ -49,7 +49,7 @@ career-profile:
     title: Career Goals
     summary: |
      Abigail is pursuing a career in which she can lift others above the poverty line through engineering, policy, and art. 
-     Abigail hopes to devote a large portion of my professional career to the development of technologies and systems to alleviate poverty. 
+     Abigail hopes to devote a large portion of her professional career to the development of technologies and systems to alleviate poverty. 
      In her undergraduate career, she plans to learn more about the ways government policy impacts engineering projects and vice versa. 
      Having an ever growing background in new media art, Abigail is also interested in applying her creative and artistic skills to her engineering career.
 education:
@@ -80,6 +80,7 @@ experiences:
       time: December 2019 - Present
       company: GoPeer, Online Tutoring Startup
       details: |
+        GoPeer is an online tutoring resource that connects K-12 students with qualified college tutors.
           - Provides clients in grades K-12 with online tutoring in mathematics, science, and english courses.
           - Hosted 100+ tutoring sessions since starting in December.
           
@@ -117,9 +118,9 @@ projects:
         link: "https://abical.github.io/artPage.html#chopstickz-2018"
         tagline: "Abigail's first independent videogame project. Atychiphobia was a gallery installation displayed at SAY Sí's 'Fruition: Senior Thesis Showcase 2019'."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Mother to Murderer (Mamá a la Asesina)
+        link: "https://abical.github.io/artPage.html#Mother-to-Murderer-Mamá-a-la-Asesina-La-Llorona-Zine-2018"
+        tagline: "Original poetry and research on La Llorona. Mother to Murderer was sold at SAY Sí's 'Muertitos Fest 2018: Sin Fronteras', a Día de los Muertos Festival and gallery installation"
 
       - title: Tempo
         link: "#"
