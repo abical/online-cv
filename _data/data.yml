@@ -122,9 +122,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Atychiphobia [fear of failure]
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Abigail's first completely independent videogame project. Atychiphobia was a gallery installation displayed at SAY Sí's 'Fruition: Senior Thesis Showcase 2019'"
 
       - title: DevStudio
         link: "#"
@@ -142,8 +142,6 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-awards: 
-    title: Awards
 
 publications:
     title: Publications
