@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -124,7 +124,7 @@ projects:
     assignments:
       - title: Atychiphobia [fear of failure]
         link: "./artPage.html#chopstickz-2018"
-        tagline: "Abigail's first completely independent videogame project. Atychiphobia was a gallery installation displayed at SAY Sí's 'Fruition: Senior Thesis Showcase 2019'"
+        tagline: "Abigail's first completely independent videogame project. Atychiphobia was a gallery installation displayed at SAY Sí's 'Fruition: Senior Thesis Showcase 2019'."
 
       - title: DevStudio
         link: "#"
